@@ -8,10 +8,6 @@ B.Tech CSE (AI) @ Bennett University
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Generative+AI+%7C+Agentic+AI;Full+Stack+Developer;Building+Real-World+AI+Applications" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yaashaagaarwaal&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 # 👨‍💻 About Me
