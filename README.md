@@ -36,28 +36,43 @@ I enjoy building practical applications using **Machine Learning, Deep Learning,
 
 # 🛠️ Tech Stack
 
+<p>
+  Technologies and tools I work with to build intelligent and scalable solutions.
+</p>
+
+---
+
 ## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" width="70"/>
-  <img src="https://skillicons.dev/icons?i=python" width="70"/>
-  <img src="https://skillicons.dev/icons?i=java" width="70"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="70"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="75"/>
+  <img src="https://skillicons.dev/icons?i=python" width="75"/>
+  <img src="https://skillicons.dev/icons?i=java" width="75"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="75"/>
 </p>
 
-**C++** · **Python** · **Java** · **JavaScript**
+<p>
+  <b>C++</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Java</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>JavaScript</b>
+</p>
 
 ---
 
 ## 🤖 AI / Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="70"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" width="70"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" width="70"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="75"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="75"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" width="75"/>
 </p>
 
-**TensorFlow** · **PyTorch** · **Scikit-learn**
+<p>
+  <b>TensorFlow</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>PyTorch</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Scikit-learn</b>
+</p>
 
 ---
 
@@ -65,79 +80,130 @@ I enjoy building practical applications using **Machine Learning, Deep Learning,
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=opencv" width="75"/>
+  <img src="https://skillicons.dev/icons?i=pillow" width="75"/>
 </p>
 
-**OpenCV**
+<p>
+  <b>OpenCV</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Pillow</b>
+</p>
 
-**(YOLO · Image Processing · OCR · Object Detection · Computer Vision)**
+<p>
+  <b>[YOLO]</b>&nbsp;&nbsp;&nbsp;
+  <b>[NumPy]</b>&nbsp;&nbsp;&nbsp;
+  <b>[Matplotlib]</b>&nbsp;&nbsp;&nbsp;
+  <b>[Image Processing]</b>&nbsp;&nbsp;&nbsp;
+  <b>[OCR]</b>&nbsp;&nbsp;&nbsp;
+  <b>[Object Detection]</b>
+</p>
 
 ---
 
 ## ✨ Generative AI
 
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=openai" width="75"/>
+  <img src="https://skillicons.dev/icons?i=langchain" width="75"/>
+  <img src="https://skillicons.dev/icons?i=huggingface" width="75"/>
+  <img src="https://skillicons.dev/icons?i=ollama" width="75"/>
 </p>
 
-**OpenAI** · **LangChain** · **Hugging Face** · **Ollama** · **LLMs**
+<p>
+  <b>OpenAI</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>LangChain</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Hugging Face</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Ollama</b>
+</p>
+
+<p>
+  <b>[LLMs]</b>&nbsp;&nbsp;&nbsp;
+  <b>[Prompt Engineering]</b>&nbsp;&nbsp;&nbsp;
+  <b>[RAG]</b>&nbsp;&nbsp;&nbsp;
+  <b>[Stable Diffusion]</b>
+</p>
 
 ---
 
 ## 🤖 Agentic AI
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-2B2D42?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=langchain" width="75"/>
+  <img src="https://skillicons.dev/icons?i=openai" width="75"/>
 </p>
 
-**LangChain** · **LangGraph** · **CrewAI** · **AI Agents** · **Tool Calling**
+<p>
+  <b>LangChain</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>OpenAI</b>
+</p>
+
+<p>
+  <b>[LangGraph]</b>&nbsp;&nbsp;&nbsp;
+  <b>[CrewAI]</b>&nbsp;&nbsp;&nbsp;
+  <b>[LlamaIndex]</b>&nbsp;&nbsp;&nbsp;
+  <b>[AI Agents]</b>&nbsp;&nbsp;&nbsp;
+  <b>[Tool Calling]</b>
+</p>
 
 ---
 
 ## 🌐 Web Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" width="70"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="70"/>
-  <img src="https://skillicons.dev/icons?i=express" width="70"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" width="70"/>
-  <img src="https://skillicons.dev/icons?i=html" width="70"/>
-  <img src="https://skillicons.dev/icons?i=css" width="70"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="70"/>
+  <img src="https://skillicons.dev/icons?i=react" width="75"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="75"/>
+  <img src="https://skillicons.dev/icons?i=express" width="75"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="75"/>
+  <img src="https://skillicons.dev/icons?i=html" width="75"/>
+  <img src="https://skillicons.dev/icons?i=css" width="75"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="75"/>
 </p>
 
-**React.js** · **Node.js** · **Express.js** · **FastAPI** · **HTML5** · **CSS3** · **Tailwind CSS**
+<p>
+  <b>React.js</b>&nbsp;&nbsp;&nbsp;
+  <b>Node.js</b>&nbsp;&nbsp;&nbsp;
+  <b>Express.js</b>&nbsp;&nbsp;&nbsp;
+  <b>FastAPI</b>&nbsp;&nbsp;&nbsp;
+  <b>HTML5</b>&nbsp;&nbsp;&nbsp;
+  <b>CSS3</b>&nbsp;&nbsp;&nbsp;
+  <b>Tailwind CSS</b>
+</p>
 
 ---
 
 ## 🗄️ Databases & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="70"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="70"/>
-  <img src="https://skillicons.dev/icons?i=git" width="70"/>
-  <img src="https://skillicons.dev/icons?i=github" width="70"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="70"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="75"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="75"/>
+  <img src="https://skillicons.dev/icons?i=git" width="75"/>
+  <img src="https://skillicons.dev/icons?i=github" width="75"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="75"/>
 </p>
 
-**MongoDB** · **MySQL** · **Git** · **GitHub** · **VS Code**
+<p>
+  <b>MongoDB</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>MySQL</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Git</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>GitHub</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>VS Code</b>
+</p>
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaashaagaarwaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=yaashaagaarwaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaashaagaarwaal&theme=tokyonight&hide_border=true" height="180"/>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/yaashaagaarwaal">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaashaagaarwaal&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
