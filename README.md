@@ -150,7 +150,7 @@ Technologies and tools I work with to build intelligent and scalable solutions.
 
 <td align="center" width="140">
 <img src="https://cdn.simpleicons.org/openai" width="80"/><br>
-<b>OpenAI</b>
+<b>OpenA</b>
 </td>
 
 <td align="center" width="140">
