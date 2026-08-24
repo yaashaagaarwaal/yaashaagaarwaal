@@ -1,13 +1,11 @@
-<!-- ==================== ANIMATED HEADER ==================== -->
-
 <h1 align="center">👋 Hi, I'm Yash Agarwal</h1>
 
 <h3 align="center">
-  B.Tech CSE (AI) @ Bennett University
+B.Tech CSE (AI) @ Bennett University
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Generative+AI+%7C+Agentic+AI;Full+Stack+Developer;Building+Real-World+AI+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Generative+AI+%7C+Agentic+AI;Full+Stack+Developer;Building+Real-World+AI+Applications" />
 </p>
 
 <p align="center">
@@ -22,7 +20,7 @@ I'm a **Computer Science student specializing in Artificial Intelligence** at Be
 
 I enjoy building practical applications using **Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, Agentic AI and Full-Stack Development**.
 
-Currently, I'm focused on:
+### 🚀 Currently Focused On
 
 * 🤖 Artificial Intelligence & Machine Learning
 * 👁️ Computer Vision
@@ -30,7 +28,7 @@ Currently, I'm focused on:
 * ✨ Generative AI
 * 🤖 Agentic AI & AI Agents
 * 🌐 Full-Stack Development
-* 🚀 Building real-world applications
+* 📊 Building intelligent, real-world applications
 
 > **Build → Learn → Improve → Repeat.**
 
@@ -41,16 +39,16 @@ Currently, I'm focused on:
 ## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" width="65"/>
-  <img src="https://skillicons.dev/icons?i=python" width="65"/>
-  <img src="https://skillicons.dev/icons?i=java" width="65"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="65"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="70"/>
+  <img src="https://skillicons.dev/icons?i=python" width="70"/>
+  <img src="https://skillicons.dev/icons?i=java" width="70"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="70"/>
 </p>
 
 <p>
-  <b>C++</b> &nbsp;&nbsp;&nbsp;
-  <b>Python</b> &nbsp;&nbsp;&nbsp;
-  <b>Java</b> &nbsp;&nbsp;&nbsp;
+  <b>C++</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Java</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>JavaScript</b>
 </p>
 
@@ -59,16 +57,16 @@ Currently, I'm focused on:
 ## 🤖 AI / Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="65"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" width="65"/>
-  <img src="https://skillicons.dev/icons?i=opencv" width="65"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" width="65"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="70"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="70"/>
+  <img src="https://skillicons.dev/icons?i=opencv" width="70"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" width="70"/>
 </p>
 
 <p>
-  <b>TensorFlow</b> &nbsp;&nbsp;&nbsp;
-  <b>PyTorch</b> &nbsp;&nbsp;&nbsp;
-  <b>OpenCV</b> &nbsp;&nbsp;&nbsp;
+  <b>TensorFlow</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>PyTorch</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>OpenCV</b>&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Scikit-learn</b>
 </p>
 
@@ -77,15 +75,14 @@ Currently, I'm focused on:
 ## 👁️ Computer Vision
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=opencv" width="65"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" width="65"/>
+  <img src="https://skillicons.dev/icons?i=opencv" width="70"/>
 </p>
 
 <p>
-  <b>OpenCV</b> &nbsp;&nbsp;&nbsp;
-  <b>YOLO</b> &nbsp;&nbsp;&nbsp;
-  <b>Image Processing</b> &nbsp;&nbsp;&nbsp;
-  <b>OCR</b> &nbsp;&nbsp;&nbsp;
+  <b>OpenCV</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>YOLO</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Image Processing</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>OCR</b>&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Object Detection</b>
 </p>
 
@@ -93,15 +90,19 @@ Currently, I'm focused on:
 
 ## ✨ Generative AI
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="65"/>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge"/>
 </p>
 
 <p>
-  <b>OpenAI</b> &nbsp;&nbsp;&nbsp;
-  <b>LangChain</b> &nbsp;&nbsp;&nbsp;
-  <b>Hugging Face</b> &nbsp;&nbsp;&nbsp;
-  <b>Ollama</b> &nbsp;&nbsp;&nbsp;
+  <b>OpenAI</b>&nbsp;&nbsp;&nbsp;
+  <b>LangChain</b>&nbsp;&nbsp;&nbsp;
+  <b>Hugging Face</b>&nbsp;&nbsp;&nbsp;
+  <b>Ollama</b>&nbsp;&nbsp;&nbsp;
   <b>LLMs</b>
 </p>
 
@@ -109,15 +110,19 @@ Currently, I'm focused on:
 
 ## 🤖 Agentic AI
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="65"/>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-2B2D42?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tool%20Calling-00A67E?style=for-the-badge"/>
 </p>
 
 <p>
-  <b>LangChain</b> &nbsp;&nbsp;&nbsp;
-  <b>LangGraph</b> &nbsp;&nbsp;&nbsp;
-  <b>CrewAI</b> &nbsp;&nbsp;&nbsp;
-  <b>AI Agents</b> &nbsp;&nbsp;&nbsp;
+  <b>LangChain</b>&nbsp;&nbsp;&nbsp;
+  <b>LangGraph</b>&nbsp;&nbsp;&nbsp;
+  <b>CrewAI</b>&nbsp;&nbsp;&nbsp;
+  <b>AI Agents</b>&nbsp;&nbsp;&nbsp;
   <b>Tool Calling</b>
 </p>
 
@@ -126,22 +131,22 @@ Currently, I'm focused on:
 ## 🌐 Web Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" width="65"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="65"/>
-  <img src="https://skillicons.dev/icons?i=express" width="65"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" width="65"/>
-  <img src="https://skillicons.dev/icons?i=html" width="65"/>
-  <img src="https://skillicons.dev/icons?i=css" width="65"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="65"/>
+  <img src="https://skillicons.dev/icons?i=react" width="70"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="70"/>
+  <img src="https://skillicons.dev/icons?i=express" width="70"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="70"/>
+  <img src="https://skillicons.dev/icons?i=html" width="70"/>
+  <img src="https://skillicons.dev/icons?i=css" width="70"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="70"/>
 </p>
 
 <p>
-  <b>React.js</b> &nbsp;&nbsp;&nbsp;
-  <b>Node.js</b> &nbsp;&nbsp;&nbsp;
-  <b>Express.js</b> &nbsp;&nbsp;&nbsp;
-  <b>FastAPI</b> &nbsp;&nbsp;&nbsp;
-  <b>HTML5</b> &nbsp;&nbsp;&nbsp;
-  <b>CSS3</b> &nbsp;&nbsp;&nbsp;
+  <b>React.js</b>&nbsp;&nbsp;&nbsp;
+  <b>Node.js</b>&nbsp;&nbsp;&nbsp;
+  <b>Express.js</b>&nbsp;&nbsp;&nbsp;
+  <b>FastAPI</b>&nbsp;&nbsp;&nbsp;
+  <b>HTML5</b>&nbsp;&nbsp;&nbsp;
+  <b>CSS3</b>&nbsp;&nbsp;&nbsp;
   <b>Tailwind CSS</b>
 </p>
 
@@ -150,18 +155,18 @@ Currently, I'm focused on:
 ## 🗄️ Databases & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="65"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="65"/>
-  <img src="https://skillicons.dev/icons?i=git" width="65"/>
-  <img src="https://skillicons.dev/icons?i=github" width="65"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="65"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="70"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="70"/>
+  <img src="https://skillicons.dev/icons?i=git" width="70"/>
+  <img src="https://skillicons.dev/icons?i=github" width="70"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="70"/>
 </p>
 
 <p>
-  <b>MongoDB</b> &nbsp;&nbsp;&nbsp;
-  <b>MySQL</b> &nbsp;&nbsp;&nbsp;
-  <b>Git</b> &nbsp;&nbsp;&nbsp;
-  <b>GitHub</b> &nbsp;&nbsp;&nbsp;
+  <b>MongoDB</b>&nbsp;&nbsp;&nbsp;
+  <b>MySQL</b>&nbsp;&nbsp;&nbsp;
+  <b>Git</b>&nbsp;&nbsp;&nbsp;
+  <b>GitHub</b>&nbsp;&nbsp;&nbsp;
   <b>VS Code</b>
 </p>
 
@@ -176,11 +181,11 @@ Currently, I'm focused on:
 
 ## 📈 Stock.io
 
-**AI-powered stock market platform**
+### AI-Powered Stock Market Platform
 
 A full-stack platform combining financial data, machine learning and AI-powered analysis.
 
-### Features
+**Features**
 
 * 📊 Stock analysis
 * 💰 Buy / Sell functionality
@@ -198,11 +203,11 @@ A full-stack platform combining financial data, machine learning and AI-powered 
 
 ## 🚘 Automatic Number Plate Recognition
 
-**End-to-end ANPR system**
+### Computer Vision & Deep Learning
 
-Computer vision system for detecting number plates and extracting characters using custom-trained deep learning models.
+An end-to-end ANPR system for detecting number plates and extracting characters using deep learning.
 
-### Features
+**Features**
 
 * 🚗 Number plate detection
 * 🔍 Image preprocessing
@@ -222,9 +227,9 @@ Computer vision system for detecting number plates and extracting characters usi
 
 ## 🏠 Mumbai House Price Predictor
 
-**Machine Learning + Full Stack Application**
+### Machine Learning + Full Stack
 
-Predicts Mumbai property prices using machine learning and provides predictions through a web interface.
+A web application that predicts Mumbai property prices using machine learning.
 
 **Tech:** XGBoost · FastAPI · React.js · Tailwind CSS
 
@@ -234,7 +239,7 @@ Predicts Mumbai property prices using machine learning and provides predictions 
 
 ## 🧠 Machine Learning Projects
 
-A collection of practical machine learning applications covering different domains.
+A collection of practical ML applications across different domains.
 
 * 💳 Credit Card Fraud Detection
 * 💰 Loan Default Prediction
@@ -254,17 +259,11 @@ A collection of practical machine learning applications covering different domai
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yaashaagaarwaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaashaagaarwaal&theme=tokyonight&hide_border=true" height="180"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaashaagaarwaal&theme=tokyonight" width="90%"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaashaagaarwaal&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-streak-stats.demolab.com?user=yaashaagaarwaal&theme=tokyonight&hide_border=true" width="90%"/>
 </p>
 
 ---
@@ -272,21 +271,24 @@ A collection of practical machine learning applications covering different domai
 # 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yaashaagaarwaal/yaashaagaarwaal/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaashaagaarwaal/yaashaagaarwaal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yaashaagaarwaal/yaashaagaarwaal/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/yaashaagaarwaal/yaashaagaarwaal/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
 # 🎯 Currently Exploring
 
-* 🤖 Advanced Machine Learning
-* 🧠 Deep Learning
-* 👁️ Computer Vision
-* ✨ Generative AI
-* 🤖 Agentic AI
-* 🧩 Large Language Models
-* 🌐 Scalable Full-Stack Applications
-* 📚 AI Research
+<p align="center">
+
+`Artificial Intelligence` · `Machine Learning` · `Computer Vision` · `Deep Learning`
+
+`Generative AI` · `Agentic AI` · `Large Language Models` · `Full-Stack Development`
+
+</p>
 
 ---
 
@@ -310,11 +312,15 @@ A collection of practical machine learning applications covering different domai
 
 ---
 
-# ⚡ A Little About My Approach
+# ⚡ My Approach
+
+<p align="center">
 
 ```text
-Learn → Build → Experiment → Fail → Improve → Ship 🚀
+Learn → Build → Experiment → Improve → Ship 🚀
 ```
+
+</p>
 
 <p align="center">
   <i>Building AI-powered solutions that solve real-world problems.</i>
@@ -323,7 +329,7 @@ Learn → Build → Experiment → Fail → Improve → Ship 🚀
 ---
 
 <p align="center">
-  ⭐ If you find something interesting, feel free to explore my repositories!
+  ⭐ Thanks for visiting my profile!
 </p>
 
 <p align="center">
