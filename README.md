@@ -92,11 +92,6 @@ Technologies and tools I work with to build intelligent and scalable solutions.
 <b>Scikit-learn</b>
 </td>
 
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=keras" width="80"/><br>
-<b>Keras</b>
-</td>
-
 </tr>
 </table>
 
@@ -117,19 +112,10 @@ Technologies and tools I work with to build intelligent and scalable solutions.
 <b>YOLO</b>
 </td>
 
-<td align="center" width="140">
-<img src="https://cdn.simpleicons.org/pillow" width="80"/><br>
-<b>Pillow</b>
-</td>
 
 <td align="center" width="140">
 <img src="https://cdn.simpleicons.org/numpy" width="80"/><br>
 <b>NumPy</b>
-</td>
-
-<td align="center" width="140">
-<img src="https://cdn.simpleicons.org/matplotlib" width="80"/><br>
-<b>Matplotlib</b>
 </td>
 
 </tr>
@@ -149,11 +135,6 @@ Technologies and tools I work with to build intelligent and scalable solutions.
 <tr>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/openai" width="80"/><br>
-<b>OpenA</b>
-</td>
-
-<td align="center" width="140">
 <img src="https://cdn.simpleicons.org/langchain" width="80"/><br>
 <b>LangChain</b>
 </td>
@@ -166,11 +147,6 @@ Technologies and tools I work with to build intelligent and scalable solutions.
 <td align="center" width="140">
 <img src="https://cdn.simpleicons.org/ollama" width="80"/><br>
 <b>Ollama</b>
-</td>
-
-<td align="center" width="140">
-<img src="https://cdn.simpleicons.org/stablediffusion" width="80"/><br>
-<b>Stable Diffusion</b>
 </td>
 
 </tr>
@@ -195,18 +171,8 @@ Technologies and tools I work with to build intelligent and scalable solutions.
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/openai" width="80"/><br>
-<b>OpenAI</b>
-</td>
-
-<td align="center" width="140">
 <img src="https://cdn.simpleicons.org/crewai" width="80"/><br>
 <b>CrewAI</b>
-</td>
-
-<td align="center" width="140">
-<img src="https://cdn.simpleicons.org/llamaindex" width="80"/><br>
-<b>LlamaIndex</b>
 </td>
 
 <td align="center" width="140">
