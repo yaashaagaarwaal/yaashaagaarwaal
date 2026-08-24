@@ -75,7 +75,7 @@ I enjoy building practical applications using **Machine Learning, Deep Learning,
 
 ## ✨ Generative AI
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -128,85 +128,16 @@ I enjoy building practical applications using **Machine Learning, Deep Learning,
 
 ---
 
-# 🚀 Featured Projects
-
-## 📈 StockVision India
-
-### AI-Powered Stock Market Platform
-
-A React + Node.js stock market workspace focused on Indian markets (NSE/BSE), with market data, virtual trading, portfolio management and AI-powered research features.
-
-**Features**
-
-* 📊 Nifty 50, Sensex & Nifty Bank data
-* 💰 Virtual buy / sell functionality
-* 📁 Portfolio & watchlist management
-* 📈 LSTM stock prediction
-* 📰 FinBERT news sentiment analysis
-* 🔍 Anomaly detection
-* ⚠️ Portfolio risk analysis
-* 🤖 AI-powered research pages
-
-**Tech:** React.js · Node.js · Express.js · Python · TensorFlow · FinBERT · MongoDB
-
-[View StockVision →](https://github.com/yaashaagaarwaal/stockvision)
-
----
-
-## 🚘 Automatic Number Plate Recognition
-
-### Computer Vision & Deep Learning
-
-An end-to-end ANPR system focused on number plate detection and character recognition.
-
-**Features**
-
-* 🚗 Number plate detection
-* 🔍 Image preprocessing
-* 🔤 OCR
-* 🧠 Custom-trained deep learning models
-* 💾 Database integration
-
-**Tech:** TensorFlow · OpenCV · YOLO · CRNN · CTC · EasyOCR
-
----
-
-## 🏠 Mumbai House Price Predictor
-
-### Machine Learning + Full Stack
-
-A machine learning web application for predicting Mumbai property prices.
-
-**Tech:** XGBoost · FastAPI · React.js · Tailwind CSS
-
----
-
-## 🧠 Machine Learning Projects
-
-Practical machine learning applications across different domains.
-
-* 💳 Credit Card Fraud Detection
-* 💰 Loan Default Prediction
-* 👥 Customer Segmentation
-* 🧠 Student Mood Prediction
-* 📈 Stock Trend Prediction
-
-**Tech:** Python · Scikit-learn · TensorFlow · XGBoost
-
----
-
-# 📊 GitHub Activity
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<a href="https://github.com/yaashaagaarwaal">
-  <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=yaashaagaarwaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
 </p>
 
 <p align="center">
-  <i>Check out my repositories and projects below.</i>
+  <a href="https://github.com/yaashaagaarwaal">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
