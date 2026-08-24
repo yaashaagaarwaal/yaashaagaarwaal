@@ -1,154 +1,234 @@
-# 👋 Hi, I'm Yash Agarwal
+<!-- ==================== HEADER ==================== -->
 
-### B.Tech CSE (AI) @ Bennett University
+<h1 align="center">
+  Hi 👋, I'm Yash Agarwal
+</h1>
 
-> Building intelligent systems, solving problems, and turning ideas into real-world applications.
+<h3 align="center">
+  B.Tech CSE (AI) @ Bennett University
+</h3>
 
-I'm a Computer Science student specializing in **Artificial Intelligence**, with interests in **Machine Learning, Computer Vision, Full-Stack Development, and Data Structures & Algorithms**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Full+Stack+Developer;DSA+%26+Problem+Solving;Building+%26+Learning+Every+Day" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yaashaagaarwaal&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🧠 About Me
+# 👨‍💻 About Me
 
-* 🎓 B.Tech Computer Science & Engineering (AI)
-* 🤖 Interested in Artificial Intelligence & Machine Learning
-* 👁️ Exploring Computer Vision and NLP
-* 💻 Building full-stack applications with modern technologies
-* 🧩 Practicing Data Structures & Algorithms
-* 🚀 Always learning and building new projects
+I'm a **Computer Science student specializing in Artificial Intelligence** at Bennett University.
+
+I enjoy building practical applications using **Machine Learning, Deep Learning, Computer Vision, NLP and Full-Stack Development**.
+
+Currently, I'm focused on:
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 👁️ Computer Vision
+* 🧠 Deep Learning
+* 🌐 Full-Stack Development
+* 🧩 Data Structures & Algorithms
+* 🚀 Building real-world projects
+
+> **Build → Learn → Improve → Repeat.**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
 </p>
 
-### 🌐 Full Stack Development
+### 🌐 Web Development
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,html,css,tailwind" />
 </p>
 
 ### 🗄️ Databases & Tools
 
 <p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📈 Stock.io — AI Stock Market Platform
+<table>
+<tr>
+<td width="50%">
 
-An AI-powered stock market platform designed to combine financial data, machine learning and portfolio management.
+### 📈 Stock.io
 
-**Features:**
+AI-powered stock market platform combining financial data, machine learning and portfolio management.
+
+**Features**
 
 * 📊 Stock analysis
-* 💰 Buy / Sell functionality
+* 💰 Buy / Sell
 * 📁 Portfolio management
 * 📈 Stock trend prediction
 * 📰 News sentiment analysis
 * ⚠️ Risk & volatility analysis
-* 🤖 AI-powered investment insights
+* 🤖 AI investment insights
 
-**Tech:** React.js · Node.js · Python · TensorFlow · MongoDB
+**Tech:** React · Node.js · Python · TensorFlow · MongoDB
 
----
+</td>
+
+<td width="50%">
 
 ### 🚘 Automatic Number Plate Recognition
 
-An end-to-end ANPR system using computer vision and deep learning.
+End-to-end ANPR system using computer vision and deep learning.
 
-**Features:**
+**Features**
 
-* Number plate detection
-* Image preprocessing
-* OCR
-* Character recognition
-* Custom-trained deep learning models
-* Database storage
+* 🚗 Number plate detection
+* 🔍 Image preprocessing
+* 🔤 OCR
+* 🧠 Custom-trained models
+* 💾 Database storage
 
-**Tech:** Python · TensorFlow · OpenCV · YOLO · CRNN · CTC · EasyOCR
+**Tech:** Python · TensorFlow · OpenCV · YOLO · CRNN · EasyOCR
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🏠 Mumbai House Price Predictor
 
-A machine learning web application for predicting Mumbai property prices.
+Machine learning web application for predicting Mumbai property prices.
 
-**Tech:** XGBoost · FastAPI · React.js · Tailwind CSS
+**Tech**
+
+`XGBoost` `FastAPI` `React` `Tailwind CSS`
+
+</td>
+
+<td width="50%">
+
+### 🧠 Machine Learning Projects
+
+Exploring multiple ML applications including:
+
+* Credit Card Fraud Detection
+* Loan Default Prediction
+* Customer Segmentation
+* Student Mood Prediction
+* Stock Trend Prediction
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Currently Learning
-
-```text
-Data Structures & Algorithms
-Machine Learning
-Computer Vision
-Deep Learning
-System Design
-Full-Stack Development
-```
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaashaagaarwaal&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yaashaagaarwaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaashaagaarwaal&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaashaagaarwaal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 Problem Solving
+# 🐍 Contribution Snake
 
-Currently working on improving my **DSA and competitive programming fundamentals**, with a focus on:
-
-`Arrays` · `Strings` · `Binary Search` · `Two Pointers` · `Recursion` · `Trees` · `Graphs` · `Dynamic Programming`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yaashaagaarwaal/yaashaagaarwaal/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+# 🧩 DSA & Problem Solving
+
+Currently improving my Data Structures & Algorithms skills.
+
+```text
+Arrays          ████████████████████
+Strings         ████████████████░░░░
+Binary Search   ██████████████░░░░░░
+Two Pointers    ██████████████░░░░░░
+Recursion       ████████████░░░░░░░░
+Trees           ████████░░░░░░░░░░░░
+Graphs          ██████░░░░░░░░░░░░░░
+DP              ████░░░░░░░░░░░░░░░░
+```
+
+---
+
+# 🎯 Current Goals
+
+* 🚀 Build production-ready AI applications
+* 🤖 Deepen Machine Learning & Deep Learning knowledge
+* 👁️ Work on advanced Computer Vision projects
+* 🧩 Master DSA and problem solving
+* 🌐 Build scalable full-stack applications
+* 📚 Explore research opportunities in AI
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/yaashaagaarwaal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<!-- Replace YOUR-LINKEDIN-USERNAME with your actual LinkedIn username -->
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<!-- Replace YOUR-PORTFOLIO-URL with your actual portfolio -->
+
+<a href="YOUR-PORTFOLIO-URL">
+  <img src="https://skillicons.dev/icons?i=vercel" width="50"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
-</p>
+# ⚡ Fun Fact
+
+```text
+while(alive) {
+    learn();
+    build();
+    solve();
+    improve();
+}
+```
+
+---
 
 <p align="center">
-  <i>Keep learning. Keep building. Keep solving.</i>
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
+
 </p>
