@@ -37,7 +37,7 @@ I enjoy building practical applications using **Machine Learning, Deep Learning,
 # 🛠️ Tech Stack
 
 <p>
-  Technologies and tools I work with to build intelligent and scalable solutions.
+Technologies and tools I work with to build intelligent and scalable solutions.
 </p>
 
 ---
@@ -52,9 +52,9 @@ I enjoy building practical applications using **Machine Learning, Deep Learning,
 </p>
 
 <p>
-  <b>C++</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Java</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>C++</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Java</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>JavaScript</b>
 </p>
 
@@ -80,16 +80,15 @@ I enjoy building practical applications using **Machine Learning, Deep Learning,
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=opencv" width="75"/>
-  <img src="https://skillicons.dev/icons?i=pillow" width="75"/>
 </p>
 
 <p>
-  <b>OpenCV</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Pillow</b>
+  <b>OpenCV</b>
 </p>
 
 <p>
   <b>[YOLO]</b>&nbsp;&nbsp;&nbsp;
+  <b>[Pillow]</b>&nbsp;&nbsp;&nbsp;
   <b>[NumPy]</b>&nbsp;&nbsp;&nbsp;
   <b>[Matplotlib]</b>&nbsp;&nbsp;&nbsp;
   <b>[Image Processing]</b>&nbsp;&nbsp;&nbsp;
@@ -101,18 +100,11 @@ I enjoy building practical applications using **Machine Learning, Deep Learning,
 
 ## ✨ Generative AI
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=openai" width="75"/>
-  <img src="https://skillicons.dev/icons?i=langchain" width="75"/>
-  <img src="https://skillicons.dev/icons?i=huggingface" width="75"/>
-  <img src="https://skillicons.dev/icons?i=ollama" width="75"/>
-</p>
-
 <p>
-  <b>OpenAI</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>LangChain</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Hugging Face</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Ollama</b>
+  <b>[OpenAI]</b>&nbsp;&nbsp;&nbsp;
+  <b>[LangChain]</b>&nbsp;&nbsp;&nbsp;
+  <b>[Hugging Face]</b>&nbsp;&nbsp;&nbsp;
+  <b>[Ollama]</b>
 </p>
 
 <p>
@@ -126,22 +118,17 @@ I enjoy building practical applications using **Machine Learning, Deep Learning,
 
 ## 🤖 Agentic AI
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=langchain" width="75"/>
-  <img src="https://skillicons.dev/icons?i=openai" width="75"/>
-</p>
-
 <p>
-  <b>LangChain</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>OpenAI</b>
-</p>
-
-<p>
+  <b>[LangChain]</b>&nbsp;&nbsp;&nbsp;
   <b>[LangGraph]</b>&nbsp;&nbsp;&nbsp;
   <b>[CrewAI]</b>&nbsp;&nbsp;&nbsp;
-  <b>[LlamaIndex]</b>&nbsp;&nbsp;&nbsp;
+  <b>[LlamaIndex]</b>
+</p>
+
+<p>
   <b>[AI Agents]</b>&nbsp;&nbsp;&nbsp;
-  <b>[Tool Calling]</b>
+  <b>[Tool Calling]</b>&nbsp;&nbsp;&nbsp;
+  <b>[Multi-Agent Systems]</b>
 </p>
 
 ---
@@ -196,13 +183,13 @@ I enjoy building practical applications using **Machine Learning, Deep Learning,
 
 <img src="https://github-readme-stats.vercel.app/api?username=yaashaagaarwaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaashaagaarwaal&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=yaashaagaarwaal&theme=tokyonight&hide_border=true" height="180"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaashaagaarwaal&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaashaagaarwaal&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </p>
 
