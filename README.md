@@ -22,13 +22,13 @@ I enjoy building practical applications using **Machine Learning, Deep Learning,
 
 ### 🚀 Currently Focused On
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 👁️ Computer Vision
-* 🧠 Deep Learning
-* ✨ Generative AI
-* 🤖 Agentic AI & AI Agents
-* 🌐 Full-Stack Development
-* 📊 Building intelligent, real-world applications
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision
+- 🧠 Deep Learning
+- ✨ Generative AI
+- 🤖 Agentic AI & AI Agents
+- 🌐 Full-Stack Development
+- 📊 Building intelligent, real-world applications
 
 > **Build → Learn → Improve → Repeat.**
 
@@ -180,17 +180,12 @@ Technologies and tools I work with to build intelligent and scalable solutions.
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yaashaagaarwaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-
-<img src="https://streak-stats.demolab.com/?user=yaashaagaarwaal&theme=tokyonight&hide_border=true" height="180"/>
-
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
+  <img src="./profile/streak.svg" height="180" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaashaagaarwaal&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
 </p>
 
 ---
@@ -231,20 +226,3 @@ Technologies and tools I work with to build intelligent and scalable solutions.
 
 ```text
 Learn → Build → Experiment → Improve → Ship 🚀
-```
-
-</p>
-
-<p align="center">
-  <i>Building AI-powered solutions that solve real-world problems.</i>
-</p>
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
-</p>
