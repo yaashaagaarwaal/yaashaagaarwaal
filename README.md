@@ -59,14 +59,12 @@ I enjoy building practical applications using **Machine Learning, Deep Learning,
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow" width="70"/>
   <img src="https://skillicons.dev/icons?i=pytorch" width="70"/>
-  <img src="https://skillicons.dev/icons?i=opencv" width="70"/>
   <img src="https://skillicons.dev/icons?i=sklearn" width="70"/>
 </p>
 
 <p>
   <b>TensorFlow</b>&nbsp;&nbsp;&nbsp;&nbsp;
   <b>PyTorch</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>OpenCV</b>&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Scikit-learn</b>
 </p>
 
@@ -259,11 +257,11 @@ A collection of practical ML applications across different domains.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaashaagaarwaal&theme=tokyonight" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yaashaagaarwaal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=yaashaagaarwaal&theme=tokyonight&hide_border=true" width="90%"/>
+  <img src="https://streak-stats.demolab.com?user=yaashaagaarwaal&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -300,12 +298,8 @@ A collection of practical ML applications across different domains.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR-LINKEDIN-URL">
+<a href="https://www.linkedin.com/in/yash-agarwal-237258315/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR-PORTFOLIO-URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
