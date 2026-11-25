@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="101.06"
+          width="101.07"
           height="8"
           fill="#3572A5"
         />
@@ -146,7 +146,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="101.06"
+          x="101.07"
           y="0"
           width="75.07"
           height="8"
@@ -156,7 +156,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="176.13"
+          x="176.14"
           y="0"
           width="54.1"
           height="8"
@@ -166,7 +166,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="230.23"
+          x="230.23999999999998"
           y="0"
           width="10.38"
           height="8"
@@ -176,7 +176,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="240.60999999999999"
+          x="240.61999999999998"
           y="0"
           width="18.41"
           height="8"
@@ -186,7 +186,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.01999999999998"
+          x="249.02999999999997"
           y="0"
           width="10.82"
           height="8"
@@ -196,7 +196,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.83999999999997"
+          x="249.84999999999997"
           y="0"
           width="10.09"
           height="8"
@@ -206,7 +206,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.92999999999998"
+          x="249.93999999999997"
           y="0"
           width="10.08"
           height="8"
@@ -219,7 +219,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 40.42%
+        Python 40.43%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
